@@ -1,0 +1,35 @@
+# This file provides a few key pieces of information about the workshop
+
+# For an example of all the available fields please refer to:
+# https://github.com/hackersatcambridge/workshop-example/blob/master/info/metadata.yaml
+
+title: # Workshop Title Goes Here
+
+# People who have directly contributed content to this workhsop
+contributors:
+  # - Firstname Lastname
+
+# (optional, uncomment to use) - Non-contributors we would like to thank for helping to inspire, develop or facilitate this workshop
+# thanks:
+#   - Firstname Lastname
+
+# (optional, uncomment to use) - Links that attendees may wish to read after the workshop
+# further_reading_links:
+#   - text: Titlehere
+#     url: URLhere
+
+# (optional, uncomment to use) - Link to a video recording of the workshop
+# recording_link: URLhere
+
+# (optional, uncomment to use) - Link to any slides associated with the workshop
+# Where possible, link to a 'full screen' mode of the slides
+# slides_link: URLhere
+
+# A set of keywords associated with the workshop
+# These are intended for use in searching
+tags:
+  # - tagname
+
+# A license code by which the workshop content is released
+# Should be an 'identifier' from here: https://spdx.org/licenses/
+license: # License-ID
