@@ -1,5 +1,3 @@
-[[This is template content]]
+No setup is required since we're hosting the notebook online - either clone the repo or just click the link in the .ipynb file to open up Google Colaboratory online:
+http://colab.research.google.com/
 
-This file should provide setup instructions for the workshop.
-Mention and software that needs to be installed and the versions
-Mention anything that needs to be downloaded or configured
