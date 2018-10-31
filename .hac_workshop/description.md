@@ -1,4 +1,1 @@
-[[This is template content]]
-
-This file should describe what will be covered in the workshop and the motivation for why it is interesting or useful. 
-This will be used in publicity and on the website.
+Deep Learning is a bit of a buzzword in the industry at the moment and is the state-of-the-art in AI, but what exactly is it? In this workshop we'll explain exactly that and by the end you'll be able to build your very own neural network from scratch - to predict housing prices and even detect whether cancer cells are benign/malignant! 
