@@ -1,6 +1,3 @@
-[[This is template content]]
+Instructions for implementing the neural network are all in the Google Colaboratory notebook in the repo.
 
-This is the actual instructional workshop content.
-Do not put a title on this document, it will already have one on the website
-You can include images from the `images` folder like this:
-![Image Description](images/cat.png)
+If you get stuck, ask a demonstrator (there is also a  fully-implemented notebook in the repo for reference). 
