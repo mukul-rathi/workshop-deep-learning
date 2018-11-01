@@ -14,7 +14,7 @@ contributors:
 #   - Firstname Lastname
 
 # (optional, uncomment to use) - Links that attendees may wish to read after the workshop
-# further_reading_links:
+further_reading_links:
    - text: Demystifying Deep Learning
      url: http://mukul-rathi.github.io/blog.html
 
