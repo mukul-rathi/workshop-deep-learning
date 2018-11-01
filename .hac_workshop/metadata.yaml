@@ -7,7 +7,7 @@ title: Intro to Deep Learning # Workshop Title Goes Here
 
 # People who have directly contributed content to this workhsop
 contributors:
-   -  Mukul Rathi
+   - Mukul Rathi
 
 # (optional, uncomment to use) - Non-contributors we would like to thank for helping to inspire, develop or facilitate this workshop
 # thanks:
@@ -28,7 +28,9 @@ contributors:
 # A set of keywords associated with the workshop
 # These are intended for use in searching
 tags:
-   - deep learning, machine learning, neural networks
+   - deep learning
+   - machine learning
+   - neural networks
 
 # A license code by which the workshop content is released
 # Should be an 'identifier' from here: https://spdx.org/licenses/
