@@ -1,3 +1,3 @@
-[[This is template content]]
+Anyone who is familiar with programming in Python will be able to follow along.
 
-This file should explain what the target audience should already know before the workshop. If possible, provide detail and links to good resources to learn the prerequisites.
+Note: Google Colaboratory requires you to log into a Google account (so it can save the notebooks in Google Drive). 

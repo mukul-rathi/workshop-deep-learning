@@ -3,18 +3,18 @@
 # For an example of all the available fields please refer to:
 # https://github.com/hackersatcambridge/workshop-example/blob/master/info/metadata.yaml
 
-title: # Workshop Title Goes Here
+title: Intro to Deep Learning # Workshop Title Goes Here
 
 # People who have directly contributed content to this workhsop
 contributors:
-   -  Mukul Rathi
+   - Mukul Rathi
 
 # (optional, uncomment to use) - Non-contributors we would like to thank for helping to inspire, develop or facilitate this workshop
 # thanks:
 #   - Firstname Lastname
 
 # (optional, uncomment to use) - Links that attendees may wish to read after the workshop
-# further_reading_links:
+further_reading_links:
    - text: Demystifying Deep Learning
      url: http://mukul-rathi.github.io/blog.html
 
@@ -28,7 +28,9 @@ contributors:
 # A set of keywords associated with the workshop
 # These are intended for use in searching
 tags:
-   - deep learning, machine learning, neural networks
+   - deep learning
+   - machine learning
+   - neural networks
 
 # A license code by which the workshop content is released
 # Should be an 'identifier' from here: https://spdx.org/licenses/
