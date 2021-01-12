@@ -1,5 +1,5 @@
-This is a Hackers at Cambridge workshop. This repository holds all the content to the workshop but the best way to view the content is on our website. Go to:
+This is a workshop I ran for the Hackers at Cambridge society (whilst I was a committee member). You can see it on the society website here:  https://hackersatcambridge.com/workshops/deep-learning
 
-hackersatcambridge.com/workshops/deep-learning
+It's based off tutorials I wrote on my website e.g. https://mukulrathi.co.uk/demystifying-deep-learning/feed-forward-neural-network/
 
 
